@@ -3,6 +3,7 @@
 - ArchLinux: <code>sudo pacman -S python-pillow</code>
 
 ## 用法
+![软件截图](https://raw.githubusercontent.com/osfans/python3-tool/master/EmperorRotMK_font/screenshot.png)
 - 设置字号（小字体建议选择9~12号，大字体建议选择16~20号）
 - 字体是否需要平滑（小字体通常不需要平滑，大字体通常需要平滑）
 - 是否需要转成繁体
